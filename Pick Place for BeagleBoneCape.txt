@@ -1,0 +1,41 @@
+Altium Designer Pick and Place Locations
+C:\Github\BeagleBoneCape\Pick Place for BeagleBoneCape.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       09/09/20
+Time:       23:23
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment            Layer       Footprint              Center-X(mil) Center-Y(mil) Rotation Description                                                                        
+P8         BBB_P8             BottomLayer BBB_CAPE_HEADER        1875.000      2025.000      180      ""                                                                                 
+P9         BBB_P9             BottomLayer BBB_CAPE_HEADER        1875.000      125.000       180      ""                                                                                 
+U2         ADP7142ARDZ-5.0-R7 TopLayer    SOIC127P600X175-9N_ALT 2773.701      1480.000      0        "Linear Voltage Regulator IC  1 Output  200mA 8-SOIC-EP"                           
+U1         CAT24C256          TopLayer    SOIC127P600X175-8N     670.000       540.000       0        "EEPROM Memory IC 256Kb _32K x 8_ I2C 1MHz 500ns 8-SOIC"                           
+TP2        5001               TopLayer    KEYSTONE_5001          2800.000      1735.000      0        "Test Point, Black, 1-Pin THD, RoHS, Bulk"                                         
+TP1        5001               TopLayer    KEYSTONE_5001          570.000       1710.000      0        "Test Point, Black, 1-Pin THD, RoHS, Bulk"                                         
+S1         "SW DIP-2"         TopLayer    DIP-4                  220.000       460.000       0        "DIP Switch, 2 Position, SPST"                                                     
+R5         4.75K              TopLayer    0603-RES               475.000       510.000       90       "RES SMD 4.75K 0.1% 1/10W 0603"                                                    
+R4         4.75K              TopLayer    0603-RES               499.000       385.000       0        "RES SMD 4.75K 0.1% 1/10W 0603"                                                    
+R3         4.75K              TopLayer    0603-RES               455.000       610.000       0        "RES SMD 4.75K 0.1% 1/10W 0603"                                                    
+R2         5.6K               TopLayer    0603-RES               860.000       390.000       270      "RES SMD 5.6K 0.1% 1/10W 0603"                                                     
+R1         5.6K               TopLayer    0603-RES               955.000       540.000       0        "RES SMD 5.6K 0.1% 1/10W 0603"                                                     
+J3         "8x2.54 mm socket" TopLayer    HDR1X8                 1225.000      1165.000      90       "0.1" 8 pin thru hole receptacle"                                                  
+J2         "8x2.54 mm socket" TopLayer    HDR1X8                 2420.000      380.000       0        "0.1" 8 pin thru hole receptacle"                                                  
+J1         ZX62WD1-B-5PC      TopLayer    HIROSE_ZX62WD1-B-5PC   3228.150      1482.126      90       "USB - micro B USB 2.0 Receptacle Connector 5 Position Surface Mount, Right Angle" 
+F3         "220 R"            TopLayer    INDC1005X55N           3260.000      1230.000      180      "220 Ohms @ 100MHz 1  Ferrite Bead 0402 (1005 Metric) 700mA 280mOhm"               
+F2         "220 R"            TopLayer    INDC1005X55N           3085.000      1395.000      90       "220 Ohms @ 100MHz 1  Ferrite Bead 0402 (1005 Metric) 700mA 280mOhm"               
+F1         "220 R"            TopLayer    INDC1005X55N           3070.000      1540.000      180      "220 Ohms @ 100MHz 1  Ferrite Bead 0402 (1005 Metric) 700mA 280mOhm"               
+D2         "30V 500mA"        TopLayer    SOD-323                2500.000      1565.000      180      "Diode Schottky 30V 500mA (DC) Surface Mount SOD-323"                              
+D1         ESD8472            TopLayer    0201-TVS               3055.000      1470.000      0        "20V Clamp 3A (8/20µs) Ipp Tvs Diode Surface Mount 2-X3DFN (0.62x0.32)"            
+C7         10UF               TopLayer    CAPC2013X145N          1115.000      1485.000      270      "10µF ±10% 25V Ceramic Capacitor X5R 0805 (2012 Metric)"                           
+C6         10UF               TopLayer    CAPC2013X145N          2720.000      490.000       0        "10µF ±10% 25V Ceramic Capacitor X5R 0805 (2012 Metric)"                           
+C5         10UF               TopLayer    CAPC2013X145N          2560.000      1455.000      270      "10µF ±10% 25V Ceramic Capacitor X5R 0805 (2012 Metric)"                           
+C4         1UF                TopLayer    CAPC2013X140N          2890.000      1295.000      270      "1µF ±10% 25V Ceramic Capacitor X5R 0805 (2012 Metric)"                            
+C3         0.1UF              TopLayer    0603-CAP               830.000       270.000       180      "0.1µF ±5% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"                           
+C2         0.1UF              TopLayer    0603-CAP               685.000       110.000       90       "0.1µF ±5% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"                           
+C1         0.1UF              TopLayer    0603-CAP               865.000       620.000       0        "0.1µF ±5% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"                           
+TP3        5001               TopLayer    Keystone_5001          1025.000      1215.000      0        "Test Point, Black, 1-Pin THD, RoHS, Bulk"                                         
