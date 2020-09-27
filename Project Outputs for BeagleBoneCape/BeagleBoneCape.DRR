@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: BeagleBoneCape.PcbDoc   9/9/2020  11:02:00 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : L1 to L2
+ASCII RoundHoles File : BeagleBoneCape-RoundHoles.TXT
+ASCII SlotHoles File : BeagleBoneCape-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      15mil (0.381mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T2      24mil (0.599mm)                                           Slot              2         PTH        0.00inch (0.00mm)
+T3      28mil (0.711mm)                                           Round             10        PTH        0.00inch (0.00mm)
+T4      35mil (0.899mm)                                           Round             20        PTH        0.00inch (0.00mm)
+T5      40mil (1.016mm)                                           Round             95        PTH        0.00inch (0.00mm)
+T6      90mil (2.286mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T7      125mil (3.175mm)                                          Round             4         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              134
+
+Total Processing Time (hh:mm:ss) : 00:00:00

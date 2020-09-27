@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [BeagleBoneCape.PrjPcb]
+   Generated File[BeagleBoneCape-RoundHoles.TXT]
+   Generated File[BeagleBoneCape-SlotHoles.TXT]
+   Generated File[BeagleBoneCape.LDP]
+   Generated File[BeagleBoneCape.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:02:00 PM On 9/9/2020
